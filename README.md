@@ -12,4 +12,4 @@ In order to obtain the centralized training result, just modify the following pa
 - "k": 1
 - "local_epochs": 1
 
-More details please refer to - ![Practicing Federated Learning GitHub Repository](https://github.com/FederatedAI/Practicing-Federated-Learning)
+More details please refer to - [Practicing Federated Learning GitHub Repository](https://github.com/FederatedAI/Practicing-Federated-Learning)
