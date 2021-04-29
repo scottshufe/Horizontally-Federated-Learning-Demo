@@ -7,7 +7,7 @@ Performance comparison between FL model and centralized training model:
     <img src="/figs/Accuracy.png" width="350"/><img src="/figs/Loss.png" width="350"/>
 </div>
 
-In order to obtain the centralized training result, just modify the following parameters in `config.py`:
+In order to obtain the centralized training result, just modify the following parameters in `utils/config.json`:
 - "no_models": 1
 - "k": 1
 - "local_epochs": 1
