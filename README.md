@@ -1,6 +1,6 @@
-# Horizontal-Federated-Learning-Demo
+# Horizontally-Federated-Learning-Demo
 
-A horizontal FL image classification demo in book ***Practicing Federated Learning*** Chapter 3.
+A horizontally FL image classification demo in book ***Practicing Federated Learning*** Chapter 3.
 
 Performance comparison between FL model and centralized training model:
 <div align="left">
