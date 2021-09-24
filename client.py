@@ -31,7 +31,7 @@ class Client(object):
                 data, target = batch
                 if torch.cuda.is_available():
                     data = data.cuda()
-                    target = data.cuda()
+                    target = target.cuda()
                 optimizer.zero_grad()
                 output = self.local_model(data)
                 loss = torch.nn.functional.cross_entropy(output, target)
